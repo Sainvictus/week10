@@ -1,0 +1,4 @@
+Git Commands Reference
+- git checkout -b: Create and switch to new branch
+- git add: Stage changes
+- git commit: Save changes to repository
